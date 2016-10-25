@@ -1,0 +1,15 @@
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Start test suite:1:simple_app.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Test suite:1:simple_app is successful.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: End test suite:1:simple_app.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Start test suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Test suite:4:free_vars is successful.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: End test suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Start test suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Test suite:9:nested_lambda3 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: End test suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Start test suite:13:pair_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Test suite:13:pair_lambda1 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: End test suite:13:pair_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Start test suite:17:pair_of_lambda_3.
+2016-04-01T21:38:48+00:00 cuckoo#02 I: Test suite:17:pair_of_lambda_3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#02 I: End test suite:17:pair_of_lambda_3.

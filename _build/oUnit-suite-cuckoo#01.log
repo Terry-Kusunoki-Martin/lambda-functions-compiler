@@ -1,0 +1,48 @@
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Start test suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Test suite:0:fortytwo is successful.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: End test suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Start test suite:5:function_value_lambda.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Test suite:5:function_value_lambda is successful.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: End test suite:5:function_value_lambda.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Start test suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Test suite:8:nested_lambda5 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: End test suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Start test suite:12:multi_arg1.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Test suite:12:multi_arg1 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: End test suite:12:multi_arg1.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Start test suite:15:pair_of_lambda.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:15:pair_of_lambda is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:15:pair_of_lambda.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:19:unbound_in_lam.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:19:unbound_in_lam is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:19:unbound_in_lam.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:20:fvs1.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:20:fvs1 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:20:fvs1.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:21:fvs2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:21:fvs2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:21:fvs2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:22:fvs3.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:22:fvs3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:22:fvs3.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:23:fvs4.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:23:fvs4 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:23:fvs4.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:24:fvs5.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:24:fvs5 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:24:fvs5.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:25:fvs6.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:25:fvs6 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:25:fvs6.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:26:fvs7.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:26:fvs7 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:26:fvs7.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:27:fvs8.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:27:fvs8 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:27:fvs8.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:28:fvs9.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:28:fvs9 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:28:fvs9.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:29:fvs10.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:29:fvs10 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:29:fvs10.

@@ -1,0 +1,358 @@
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Runner: processes
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Chooser: simple
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration suite_name = "suite"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration cache_filename = "/home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/_build/oUnit-$(suite_name).cache"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration display = "true"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration results_style_1_X = "false"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration verbose = "false"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration health_check_interval = "1."
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration testdata_dir = "none"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration chooser = "simple"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration output_html_dir = "none"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration processes_kill_period = "5."
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration runner = "processes"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration shards = "4"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration processes_grace_period = "5."
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration log_encoding = "utf-8"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration output_junit_file = "none"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Configuration output_file = "/home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/_build/oUnit-$(suite_name)-$(shard_id).log"
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Using 4 workers maximum.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Starting worker number cuckoo#01.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Worker cuckoo#01 started.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Starting worker number cuckoo#02.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Worker cuckoo#02 started.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Starting worker number cuckoo#03.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Worker cuckoo#03 started.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Starting worker number cuckoo#04.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: Worker cuckoo#04 started.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:3:no_free_vars, suite:2:no_args, suite:1:simple_app, suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Start test suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:3:no_free_vars, suite:2:no_args, suite:1:simple_app, suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Start test suite:1:simple_app.
+2016-04-01T21:38:46+00:00 cuckoo#03 I: Start test suite:2:no_args.
+2016-04-01T21:38:46+00:00 cuckoo#04 I: Start test suite:3:no_free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:3:no_free_vars, suite:2:no_args, suite:1:simple_app, suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Test suite:0:fortytwo is successful.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Test suite:1:simple_app is successful.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:3:no_free_vars, suite:2:no_args, suite:1:simple_app, suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: End test suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: End test suite:1:simple_app.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:3:no_free_vars, suite:2:no_args, suite:1:simple_app, suite:0:fortytwo.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:5:function_value_lambda, suite:4:free_vars, suite:3:no_free_vars, suite:2:no_args.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Start test suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Start test suite:5:function_value_lambda.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:5:function_value_lambda, suite:4:free_vars, suite:3:no_free_vars, suite:2:no_args.
+2016-04-01T21:38:46+00:00 cuckoo#03 I: Test suite:2:no_args is successful.
+2016-04-01T21:38:46+00:00 cuckoo#04 I: Test suite:3:no_free_vars is successful.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:5:function_value_lambda, suite:4:free_vars, suite:3:no_free_vars, suite:2:no_args.
+2016-04-01T21:38:46+00:00 cuckoo#03 I: End test suite:2:no_args.
+2016-04-01T21:38:46+00:00 cuckoo#04 I: End test suite:3:no_free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:5:function_value_lambda, suite:4:free_vars, suite:3:no_free_vars, suite:2:no_args.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:7:nested_lambda2, suite:6:nested_lambda1, suite:5:function_value_lambda, suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#04 I: Start test suite:6:nested_lambda1.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:7:nested_lambda2, suite:6:nested_lambda1, suite:5:function_value_lambda, suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#03 I: Start test suite:7:nested_lambda2.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:7:nested_lambda2, suite:6:nested_lambda1, suite:5:function_value_lambda, suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Test suite:4:free_vars is successful.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Test suite:5:function_value_lambda is successful.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:7:nested_lambda2, suite:6:nested_lambda1, suite:5:function_value_lambda, suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: End test suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: End test suite:5:function_value_lambda.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:7:nested_lambda2, suite:6:nested_lambda1, suite:5:function_value_lambda, suite:4:free_vars.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:9:nested_lambda3, suite:8:nested_lambda5, suite:7:nested_lambda2, suite:6:nested_lambda1.
+2016-04-01T21:38:46+00:00 cuckoo#01 I: Start test suite:8:nested_lambda5.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:9:nested_lambda3, suite:8:nested_lambda5, suite:7:nested_lambda2, suite:6:nested_lambda1.
+2016-04-01T21:38:46+00:00 cuckoo#02 I: Start test suite:9:nested_lambda3.
+2016-04-01T21:38:46+00:00 cuckoo#00 I: 4 tests running: suite:9:nested_lambda3, suite:8:nested_lambda5, suite:7:nested_lambda2, suite:6:nested_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#04 I: Test suite:6:nested_lambda1 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: Test suite:7:nested_lambda2 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:9:nested_lambda3, suite:8:nested_lambda5, suite:7:nested_lambda2, suite:6:nested_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#04 I: End test suite:6:nested_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: End test suite:7:nested_lambda2.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:9:nested_lambda3, suite:8:nested_lambda5, suite:7:nested_lambda2, suite:6:nested_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3, suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: Start test suite:10:nested_lambda4.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3, suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#04 I: Start test suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3, suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Test suite:8:nested_lambda5 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3, suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: End test suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3, suite:8:nested_lambda5.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:12:multi_arg1, suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Start test suite:12:multi_arg1.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:12:multi_arg1, suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Test suite:9:nested_lambda3 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:12:multi_arg1, suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: End test suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: Test suite:10:nested_lambda4 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:12:multi_arg1, suite:11:nested_lambda6, suite:10:nested_lambda4, suite:9:nested_lambda3.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: End test suite:10:nested_lambda4.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:13:pair_lambda1, suite:12:multi_arg1, suite:11:nested_lambda6, suite:10:nested_lambda4.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Start test suite:13:pair_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:14:pair_lambda2, suite:13:pair_lambda1, suite:12:multi_arg1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: Start test suite:14:pair_lambda2.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:14:pair_lambda2, suite:13:pair_lambda1, suite:12:multi_arg1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Test suite:12:multi_arg1 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:14:pair_lambda2, suite:13:pair_lambda1, suite:12:multi_arg1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: End test suite:12:multi_arg1.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:14:pair_lambda2, suite:13:pair_lambda1, suite:12:multi_arg1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:15:pair_of_lambda, suite:14:pair_lambda2, suite:13:pair_lambda1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#01 I: Start test suite:15:pair_of_lambda.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:15:pair_of_lambda, suite:14:pair_lambda2, suite:13:pair_lambda1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Test suite:13:pair_lambda1 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: Test suite:14:pair_lambda2 is successful.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:15:pair_of_lambda, suite:14:pair_lambda2, suite:13:pair_lambda1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: End test suite:13:pair_lambda1.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: End test suite:14:pair_lambda2.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:15:pair_of_lambda, suite:14:pair_lambda2, suite:13:pair_lambda1, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#02 I: Start test suite:17:pair_of_lambda_3.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#03 I: Start test suite:16:pair_of_lambda_2.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#04 E: Test suite:11:nested_lambda6 has failed.
+2016-04-01T21:38:47+00:00 cuckoo#04 E: expected: 86
+2016-04-01T21:38:47+00:00 cuckoo#04 E: 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: but got: Error: Stdout: 86
+2016-04-01T21:38:47+00:00 cuckoo#04 E: 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: Valgrind: 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Memcheck, a memory error detector
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Command: output/nested_lambda6.run
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Invalid write of size 4
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    at 0x804896F: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    by 0x8048A5E: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    by 0x8048908: main (main.c:75)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==  Address 0xfeae710c is on thread 1's stack
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==  4 bytes below stack pointer
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Invalid read of size 4
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    at 0x80489A6: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    by 0x8048A5E: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    by 0x8048908: main (main.c:75)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==  Address 0xfeae710c is on thread 1's stack
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==  4 bytes below stack pointer
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== Invalid read of size 4
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    at 0x80489C4: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    by 0x8048A5E: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==    by 0x8048908: main (main.c:75)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==  Address 0xfeae710c is on thread 1's stack
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==  4 bytes below stack pointer
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== HEAP SUMMARY:
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==     in use at exit: 0 bytes in 0 blocks
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092==   total heap usage: 1 allocs, 1 frees, 400,000 bytes allocated
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== All heap blocks were freed -- no leaks are possible
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== 
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== For counts of detected and suppressed errors, rerun with: -v
+2016-04-01T21:38:47+00:00 cuckoo#04 E: ==15092== ERROR SUMMARY: 3 errors from 3 contexts (suppressed: 0 from 0)
+2016-04-01T21:38:47+00:00 cuckoo#04 E: 
+2016-04-01T21:38:47+00:00 cuckoo#04 E:  in test suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#04 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2016-04-01T21:38:47+00:00 cuckoo#04 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2016-04-01T21:38:47+00:00 cuckoo#04 E: 
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#04 I: End test suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda, suite:11:nested_lambda6.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda.
+2016-04-01T21:38:47+00:00 cuckoo#04 I: Start test suite:18:freevars_ordering.
+2016-04-01T21:38:47+00:00 cuckoo#00 I: 4 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:15:pair_of_lambda is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:15:pair_of_lambda.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2, suite:15:pair_of_lambda.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:19:unbound_in_lam, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:19:unbound_in_lam.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:19:unbound_in_lam, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:19:unbound_in_lam is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:19:unbound_in_lam, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:19:unbound_in_lam.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:19:unbound_in_lam, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:20:fvs1, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:20:fvs1.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:20:fvs1, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:20:fvs1 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:20:fvs1, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:20:fvs1.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:20:fvs1, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:21:fvs2, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:21:fvs2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:21:fvs2, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:21:fvs2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:21:fvs2, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:21:fvs2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:21:fvs2, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:22:fvs3, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:22:fvs3.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:22:fvs3, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:22:fvs3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:22:fvs3, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:22:fvs3.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:22:fvs3, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:23:fvs4, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:23:fvs4.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:23:fvs4, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:23:fvs4 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:23:fvs4, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:23:fvs4.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:23:fvs4, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:24:fvs5, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:24:fvs5.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:24:fvs5, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:24:fvs5 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:24:fvs5, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:24:fvs5.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:24:fvs5, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:25:fvs6, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:25:fvs6.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:25:fvs6, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:25:fvs6 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:25:fvs6, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:25:fvs6.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:25:fvs6, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:26:fvs7, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:26:fvs7.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:26:fvs7, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:26:fvs7 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:26:fvs7, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:26:fvs7.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:26:fvs7, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:27:fvs8, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:27:fvs8.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:27:fvs8, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:27:fvs8 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:27:fvs8, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:27:fvs8.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:27:fvs8, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:28:fvs9, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:28:fvs9.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:28:fvs9, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:28:fvs9 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:28:fvs9, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:28:fvs9.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:28:fvs9, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 4 tests running : suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Start test suite:29:fvs10.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 4 tests running : suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: Test suite:29:fvs10 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 4 tests running : suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#01 I: End test suite:29:fvs10.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 4 tests running : suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 4 tests running: suite:29:fvs10, suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 3 tests running : suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 3 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#03 I: Test suite:16:pair_of_lambda_2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#02 I: Test suite:17:pair_of_lambda_3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#04 I: Test suite:18:freevars_ordering is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 3 tests running : suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 3 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#03 I: End test suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#02 I: End test suite:17:pair_of_lambda_3.
+2016-04-01T21:38:48+00:00 cuckoo#04 I: End test suite:18:freevars_ordering.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Still 3 tests running : suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 3 tests running: suite:18:freevars_ordering, suite:17:pair_of_lambda_3, suite:16:pair_of_lambda_2.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 0 tests running: .
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Worker cuckoo#01 has ended.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Worker cuckoo#03 has ended.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Worker cuckoo#02 has ended.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: 0 tests running: .
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Worker cuckoo#04 has ended.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Used 4 worker during test execution.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Run 16 tests with shard cuckoo#01.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Run 4 tests with shard cuckoo#04.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Run 5 tests with shard cuckoo#02.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Run 5 tests with shard cuckoo#03.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: ==============
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Summary:
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:18:freevars_ordering is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:17:pair_of_lambda_3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:16:pair_of_lambda_2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:29:fvs10 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:28:fvs9 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:27:fvs8 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:26:fvs7 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:25:fvs6 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:24:fvs5 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:23:fvs4 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:22:fvs3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:21:fvs2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:20:fvs1 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:19:unbound_in_lam is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:15:pair_of_lambda is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 E: Test suite:11:nested_lambda6 has failed.
+2016-04-01T21:38:48+00:00 cuckoo#00 E: expected: 86
+2016-04-01T21:38:48+00:00 cuckoo#00 E: 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: but got: Error: Stdout: 86
+2016-04-01T21:38:48+00:00 cuckoo#00 E: 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: Valgrind: 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Memcheck, a memory error detector
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Command: output/nested_lambda6.run
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Invalid write of size 4
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    at 0x804896F: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    by 0x8048A5E: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    by 0x8048908: main (main.c:75)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==  Address 0xfeae710c is on thread 1's stack
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==  4 bytes below stack pointer
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Invalid read of size 4
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    at 0x80489A6: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    by 0x8048A5E: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    by 0x8048908: main (main.c:75)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==  Address 0xfeae710c is on thread 1's stack
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==  4 bytes below stack pointer
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== Invalid read of size 4
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    at 0x80489C4: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    by 0x8048A5E: ??? (in /home/tkusuno1/cs75/labs/fdl-tkusuno1-tlai1/output/nested_lambda6.run)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==    by 0x8048908: main (main.c:75)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==  Address 0xfeae710c is on thread 1's stack
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==  4 bytes below stack pointer
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== HEAP SUMMARY:
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==     in use at exit: 0 bytes in 0 blocks
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092==   total heap usage: 1 allocs, 1 frees, 400,000 bytes allocated
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== All heap blocks were freed -- no leaks are possible
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== 
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== For counts of detected and suppressed errors, rerun with: -v
+2016-04-01T21:38:48+00:00 cuckoo#00 E: ==15092== ERROR SUMMARY: 3 errors from 3 contexts (suppressed: 0 from 0)
+2016-04-01T21:38:48+00:00 cuckoo#00 E: 
+2016-04-01T21:38:48+00:00 cuckoo#00 E:  in test suite:11:nested_lambda6.
+2016-04-01T21:38:48+00:00 cuckoo#00 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2016-04-01T21:38:48+00:00 cuckoo#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2016-04-01T21:38:48+00:00 cuckoo#00 E: 
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:14:pair_lambda2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:13:pair_lambda1 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:12:multi_arg1 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:10:nested_lambda4 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:9:nested_lambda3 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:8:nested_lambda5 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:7:nested_lambda2 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:6:nested_lambda1 is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:5:function_value_lambda is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:4:free_vars is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:3:no_free_vars is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:2:no_args is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:1:simple_app is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Test suite:0:fortytwo is successful.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Ran: 30 tests in: 2.52 seconds.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Cases: 30.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Tried: 30.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Errors: 0.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Failures: 1.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Skip: 0.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Todo: 0.
+2016-04-01T21:38:48+00:00 cuckoo#00 I: Timeout: 0.

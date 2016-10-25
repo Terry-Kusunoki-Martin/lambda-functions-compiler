@@ -1,0 +1,132 @@
+2016-04-03T17:58:45+00:00 cinnamon#01 I: Start test suite:0:fortytwo.
+2016-04-03T17:58:46+00:00 cinnamon#01 I: Test suite:0:fortytwo is successful.
+2016-04-03T17:58:46+00:00 cinnamon#01 I: End test suite:0:fortytwo.
+2016-04-03T17:58:46+00:00 cinnamon#01 I: Start test suite:7:nested_lambda2.
+2016-04-03T17:58:46+00:00 cinnamon#01 I: Test suite:7:nested_lambda2 is successful.
+2016-04-03T17:58:46+00:00 cinnamon#01 I: End test suite:7:nested_lambda2.
+2016-04-03T17:58:46+00:00 cinnamon#01 I: Start test suite:11:nested_lambda6.
+2016-04-03T17:58:47+00:00 cinnamon#01 I: Test suite:11:nested_lambda6 is successful.
+2016-04-03T17:58:47+00:00 cinnamon#01 I: End test suite:11:nested_lambda6.
+2016-04-03T17:58:47+00:00 cinnamon#01 I: Start test suite:13:pair_lambda1.
+2016-04-03T17:58:47+00:00 cinnamon#01 I: Test suite:13:pair_lambda1 is successful.
+2016-04-03T17:58:47+00:00 cinnamon#01 I: End test suite:13:pair_lambda1.
+2016-04-03T17:58:47+00:00 cinnamon#01 I: Start test suite:18:freevars_ordering.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: Test suite:18:freevars_ordering is successful.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: End test suite:18:freevars_ordering.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: Start test suite:32:isnum_on_pair.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: Test suite:32:isnum_on_pair is successful.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: End test suite:32:isnum_on_pair.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: Start test suite:37:ispair_on_pair1.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: Test suite:37:ispair_on_pair1 is successful.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: End test suite:37:ispair_on_pair1.
+2016-04-03T17:58:48+00:00 cinnamon#01 I: Start test suite:41:pair_of_pair.
+2016-04-03T17:58:49+00:00 cinnamon#01 I: Test suite:41:pair_of_pair is successful.
+2016-04-03T17:58:49+00:00 cinnamon#01 I: End test suite:41:pair_of_pair.
+2016-04-03T17:58:49+00:00 cinnamon#01 I: Start test suite:44:add_pair.
+2016-04-03T17:58:49+00:00 cinnamon#01 I: Test suite:44:add_pair is successful.
+2016-04-03T17:58:49+00:00 cinnamon#01 I: End test suite:44:add_pair.
+2016-04-03T17:58:49+00:00 cinnamon#01 I: Start test suite:49:equal_pair1.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Test suite:49:equal_pair1 is successful.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: End test suite:49:equal_pair1.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Start test suite:52:nonexistent_function.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Test suite:52:nonexistent_function is successful.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: End test suite:52:nonexistent_function.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Start test suite:54:fals.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Test suite:54:fals is successful.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: End test suite:54:fals.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Start test suite:57:isnum1.1.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Test suite:57:isnum1.1 is successful.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: End test suite:57:isnum1.1.
+2016-04-03T17:58:50+00:00 cinnamon#01 I: Start test suite:61:isbool1.1.
+2016-04-03T17:58:51+00:00 cinnamon#01 I: Test suite:61:isbool1.1 is successful.
+2016-04-03T17:58:51+00:00 cinnamon#01 I: End test suite:61:isbool1.1.
+2016-04-03T17:58:51+00:00 cinnamon#01 I: Start test suite:64:print1.
+2016-04-03T17:58:51+00:00 cinnamon#01 I: Test suite:64:print1 is successful.
+2016-04-03T17:58:51+00:00 cinnamon#01 I: End test suite:64:print1.
+2016-04-03T17:58:51+00:00 cinnamon#01 I: Start test suite:67:nested_let.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: Test suite:67:nested_let is successful.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: End test suite:67:nested_let.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: Start test suite:72:multiple_x1.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: Test suite:72:multiple_x1 is successful.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: End test suite:72:multiple_x1.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: Start test suite:74:plus_joe.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: Test suite:74:plus_joe is successful.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: End test suite:74:plus_joe.
+2016-04-03T17:58:52+00:00 cinnamon#01 I: Start test suite:77:let0.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Test suite:77:let0 is successful.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: End test suite:77:let0.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Start test suite:81:simple_unbound.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Test suite:81:simple_unbound is successful.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: End test suite:81:simple_unbound.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Start test suite:82:ten.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Test suite:82:ten is successful.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: End test suite:82:ten.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Start test suite:88:unbound_test.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Test suite:88:unbound_test is successful.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: End test suite:88:unbound_test.
+2016-04-03T17:58:53+00:00 cinnamon#01 I: Start test suite:89:nested_prim.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:89:nested_prim is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:89:nested_prim.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:102:if5.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:102:if5 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:102:if5.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:103:if6.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:103:if6 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:103:if6.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:104:if8.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:104:if8 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:104:if8.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:105:error1.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:105:error1 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:105:error1.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:106:error2.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:106:error2 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:106:error2.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:107:error4.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:107:error4 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:107:error4.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:108:error4.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:108:error4 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:108:error4.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:109:error3.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:109:error3 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:109:error3.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:110:error3.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Test suite:110:error3 is successful.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: End test suite:110:error3.
+2016-04-03T17:58:54+00:00 cinnamon#01 I: Start test suite:112:tiemaas.
+2016-04-03T17:58:55+00:00 cinnamon#01 I: Test suite:112:tiemaas is successful.
+2016-04-03T17:58:55+00:00 cinnamon#01 I: End test suite:112:tiemaas.
+2016-04-03T17:58:55+00:00 cinnamon#01 I: Start test suite:118:num_expected_2.
+2016-04-03T17:58:55+00:00 cinnamon#01 I: Test suite:118:num_expected_2 is successful.
+2016-04-03T17:58:55+00:00 cinnamon#01 I: End test suite:118:num_expected_2.
+2016-04-03T17:58:55+00:00 cinnamon#01 I: Start test suite:120:equality.
+2016-04-03T17:58:56+00:00 cinnamon#01 I: Test suite:120:equality is successful.
+2016-04-03T17:58:56+00:00 cinnamon#01 I: End test suite:120:equality.
+2016-04-03T17:58:56+00:00 cinnamon#01 I: Start test suite:125:lt5.
+2016-04-03T17:58:56+00:00 cinnamon#01 I: Test suite:125:lt5 is successful.
+2016-04-03T17:58:56+00:00 cinnamon#01 I: End test suite:125:lt5.
+2016-04-03T17:58:56+00:00 cinnamon#01 I: Start test suite:127:lt7.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: Test suite:127:lt7 is successful.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: End test suite:127:lt7.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: Start test suite:132:gt1.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: Test suite:132:gt1 is successful.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: End test suite:132:gt1.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: Start test suite:135:gt4.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: Test suite:135:gt4 is successful.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: End test suite:135:gt4.
+2016-04-03T17:58:57+00:00 cinnamon#01 I: Start test suite:138:gt7.
+2016-04-03T17:58:58+00:00 cinnamon#01 I: Test suite:138:gt7 is successful.
+2016-04-03T17:58:58+00:00 cinnamon#01 I: End test suite:138:gt7.
+2016-04-03T17:58:58+00:00 cinnamon#01 I: Start test suite:143:eq1.
+2016-04-03T17:58:58+00:00 cinnamon#01 I: Test suite:143:eq1 is successful.
+2016-04-03T17:58:58+00:00 cinnamon#01 I: End test suite:143:eq1.
+2016-04-03T17:58:58+00:00 cinnamon#01 I: Start test suite:147:eq5.
+2016-04-03T17:58:59+00:00 cinnamon#01 I: Test suite:147:eq5 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#01 I: End test suite:147:eq5.
+2016-04-03T17:58:59+00:00 cinnamon#01 I: Start test suite:153:runtime_overflow3.
+2016-04-03T17:58:59+00:00 cinnamon#01 I: Test suite:153:runtime_overflow3 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#01 I: End test suite:153:runtime_overflow3.
+2016-04-03T17:58:59+00:00 cinnamon#01 I: Start test suite:157:expr_in_print.
+2016-04-03T17:59:00+00:00 cinnamon#01 I: Test suite:157:expr_in_print is successful.
+2016-04-03T17:59:00+00:00 cinnamon#01 I: End test suite:157:expr_in_print.

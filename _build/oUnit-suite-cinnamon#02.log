@@ -1,0 +1,108 @@
+2016-04-03T17:58:45+00:00 cinnamon#02 I: Start test suite:1:simple_app.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: Test suite:1:simple_app is successful.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: End test suite:1:simple_app.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: Start test suite:4:free_vars.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: Test suite:4:free_vars is successful.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: End test suite:4:free_vars.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: Start test suite:8:nested_lambda5.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: Test suite:8:nested_lambda5 is successful.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: End test suite:8:nested_lambda5.
+2016-04-03T17:58:46+00:00 cinnamon#02 I: Start test suite:12:multi_arg1.
+2016-04-03T17:58:47+00:00 cinnamon#02 I: Test suite:12:multi_arg1 is successful.
+2016-04-03T17:58:47+00:00 cinnamon#02 I: End test suite:12:multi_arg1.
+2016-04-03T17:58:47+00:00 cinnamon#02 I: Start test suite:16:pair_of_lambda_2.
+2016-04-03T17:58:47+00:00 cinnamon#02 I: Test suite:16:pair_of_lambda_2 is successful.
+2016-04-03T17:58:47+00:00 cinnamon#02 I: End test suite:16:pair_of_lambda_2.
+2016-04-03T17:58:47+00:00 cinnamon#02 I: Start test suite:31:pair_of_pair_print.
+2016-04-03T17:58:48+00:00 cinnamon#02 I: Test suite:31:pair_of_pair_print is successful.
+2016-04-03T17:58:48+00:00 cinnamon#02 I: End test suite:31:pair_of_pair_print.
+2016-04-03T17:58:48+00:00 cinnamon#02 I: Start test suite:35:isbool_on_bool.
+2016-04-03T17:58:48+00:00 cinnamon#02 I: Test suite:35:isbool_on_bool is successful.
+2016-04-03T17:58:48+00:00 cinnamon#02 I: End test suite:35:isbool_on_bool.
+2016-04-03T17:58:48+00:00 cinnamon#02 I: Start test suite:39:ispair_on_bool.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: Test suite:39:ispair_on_bool is successful.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: End test suite:39:ispair_on_bool.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: Start test suite:43:add1_pair.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: Test suite:43:add1_pair is successful.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: End test suite:43:add1_pair.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: Start test suite:47:less_pair.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: Test suite:47:less_pair is successful.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: End test suite:47:less_pair.
+2016-04-03T17:58:49+00:00 cinnamon#02 I: Start test suite:51:equal_pair3.
+2016-04-03T17:58:50+00:00 cinnamon#02 I: Test suite:51:equal_pair3 is successful.
+2016-04-03T17:58:50+00:00 cinnamon#02 I: End test suite:51:equal_pair3.
+2016-04-03T17:58:50+00:00 cinnamon#02 I: Start test suite:56:isnum1.
+2016-04-03T17:58:50+00:00 cinnamon#02 I: Test suite:56:isnum1 is successful.
+2016-04-03T17:58:50+00:00 cinnamon#02 I: End test suite:56:isnum1.
+2016-04-03T17:58:50+00:00 cinnamon#02 I: Start test suite:59:isnum3.
+2016-04-03T17:58:51+00:00 cinnamon#02 I: Test suite:59:isnum3 is successful.
+2016-04-03T17:58:51+00:00 cinnamon#02 I: End test suite:59:isnum3.
+2016-04-03T17:58:51+00:00 cinnamon#02 I: Start test suite:63:isbool3.
+2016-04-03T17:58:51+00:00 cinnamon#02 I: Test suite:63:isbool3 is successful.
+2016-04-03T17:58:51+00:00 cinnamon#02 I: End test suite:63:isbool3.
+2016-04-03T17:58:51+00:00 cinnamon#02 I: Start test suite:66:single_let.
+2016-04-03T17:58:52+00:00 cinnamon#02 I: Test suite:66:single_let is successful.
+2016-04-03T17:58:52+00:00 cinnamon#02 I: End test suite:66:single_let.
+2016-04-03T17:58:52+00:00 cinnamon#02 I: Start test suite:70:let_after_equal.
+2016-04-03T17:58:52+00:00 cinnamon#02 I: Test suite:70:let_after_equal is successful.
+2016-04-03T17:58:52+00:00 cinnamon#02 I: End test suite:70:let_after_equal.
+2016-04-03T17:58:52+00:00 cinnamon#02 I: Start test suite:75:if1.
+2016-04-03T17:58:53+00:00 cinnamon#02 I: Test suite:75:if1 is successful.
+2016-04-03T17:58:53+00:00 cinnamon#02 I: End test suite:75:if1.
+2016-04-03T17:58:53+00:00 cinnamon#02 I: Start test suite:79:let2.
+2016-04-03T17:58:53+00:00 cinnamon#02 I: Test suite:79:let2 is successful.
+2016-04-03T17:58:53+00:00 cinnamon#02 I: End test suite:79:let2.
+2016-04-03T17:58:53+00:00 cinnamon#02 I: Start test suite:86:nested_let.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: Test suite:86:nested_let is successful.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: End test suite:86:nested_let.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: Start test suite:91:comma_separated_binds.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: Test suite:91:comma_separated_binds is successful.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: End test suite:91:comma_separated_binds.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: Start test suite:100:shadowing_multiple.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: Test suite:100:shadowing_multiple is successful.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: End test suite:100:shadowing_multiple.
+2016-04-03T17:58:54+00:00 cinnamon#02 I: Start test suite:101:if4.
+2016-04-03T17:58:55+00:00 cinnamon#02 I: Test suite:101:if4 is successful.
+2016-04-03T17:58:55+00:00 cinnamon#02 I: End test suite:101:if4.
+2016-04-03T17:58:55+00:00 cinnamon#02 I: Start test suite:115:cprim_in_let.
+2016-04-03T17:58:55+00:00 cinnamon#02 I: Test suite:115:cprim_in_let is successful.
+2016-04-03T17:58:55+00:00 cinnamon#02 I: End test suite:115:cprim_in_let.
+2016-04-03T17:58:55+00:00 cinnamon#02 I: Start test suite:119:num_expected_3.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: Test suite:119:num_expected_3 is successful.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: End test suite:119:num_expected_3.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: Start test suite:123:lt3.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: Test suite:123:lt3 is successful.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: End test suite:123:lt3.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: Start test suite:126:lt6.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: Test suite:126:lt6 is successful.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: End test suite:126:lt6.
+2016-04-03T17:58:56+00:00 cinnamon#02 I: Start test suite:130:lt10.
+2016-04-03T17:58:57+00:00 cinnamon#02 I: Test suite:130:lt10 is successful.
+2016-04-03T17:58:57+00:00 cinnamon#02 I: End test suite:130:lt10.
+2016-04-03T17:58:57+00:00 cinnamon#02 I: Start test suite:134:gt3.
+2016-04-03T17:58:57+00:00 cinnamon#02 I: Test suite:134:gt3 is successful.
+2016-04-03T17:58:57+00:00 cinnamon#02 I: End test suite:134:gt3.
+2016-04-03T17:58:57+00:00 cinnamon#02 I: Start test suite:137:gt6.
+2016-04-03T17:58:58+00:00 cinnamon#02 I: Test suite:137:gt6 is successful.
+2016-04-03T17:58:58+00:00 cinnamon#02 I: End test suite:137:gt6.
+2016-04-03T17:58:58+00:00 cinnamon#02 I: Start test suite:141:gt10.
+2016-04-03T17:58:58+00:00 cinnamon#02 I: Test suite:141:gt10 is successful.
+2016-04-03T17:58:58+00:00 cinnamon#02 I: End test suite:141:gt10.
+2016-04-03T17:58:58+00:00 cinnamon#02 I: Start test suite:145:eq3.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Test suite:145:eq3 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: End test suite:145:eq3.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Start test suite:149:compiletime_overflow1.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Test suite:149:compiletime_overflow1 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: End test suite:149:compiletime_overflow1.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Start test suite:150:compiletime_overflow2.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Test suite:150:compiletime_overflow2 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: End test suite:150:compiletime_overflow2.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Start test suite:151:runtime_overflow1.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Test suite:151:runtime_overflow1 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: End test suite:151:runtime_overflow1.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Start test suite:154:runtime_overflow4.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Test suite:154:runtime_overflow4 is successful.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: End test suite:154:runtime_overflow4.
+2016-04-03T17:58:59+00:00 cinnamon#02 I: Start test suite:158:nested_prints.
+2016-04-03T17:59:00+00:00 cinnamon#02 I: Test suite:158:nested_prints is successful.
+2016-04-03T17:59:00+00:00 cinnamon#02 I: End test suite:158:nested_prints.

@@ -1,3 +1,5 @@
+This wa part of a school project in which I added the ability to use anonymous functions to my compiler.  The description for this project from my instructor is copied below.
+
 # Fer-de-lance
 
 ![A fer-de-lance](https://upload.wikimedia.org/wikipedia/commons/5/51/Bothrops_asper_-_Tortuguero1.jpg)
